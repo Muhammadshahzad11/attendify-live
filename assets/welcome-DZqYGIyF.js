@@ -1,0 +1,1 @@
+import{_ as e}from"./VerticalLayout.vue_vue_type_script_setup_true_lang-C6OtFbap.js";import{d as o,e as r,o as t}from"./index-DNvDtTHq.js";import"./LogoBox.vue_vue_type_script_setup_true_lang-D4hgdgq3.js";const p=o({__name:"welcome",setup(a){return(_,c)=>(t(),r(e))}});export{p as default};
